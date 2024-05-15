@@ -151,6 +151,12 @@ def e_note():
     speaker.play('e4',0.3)
 def f_note():
     speaker.play('f4',0.3)
+def g_note():
+    speaker.play('g4',0.3)
+def a_note():
+    speaker.play('a4',0.3)
+def b_note():
+    speaker.play('b4',0.3)
 def play_liten_mus():
     speaker.play(liten_mus)
 def note_1():
