@@ -1,4 +1,4 @@
-BeatRush em MicroPython
+  BeatRush em MicroPython
 Esse projeto consiste na criação de um jogo de peiano utilizando o micropython em uma placa de desenvolvimento que possui suporte a mycropython. O jogo consiste em ajudar o jogador a tocar uma música no piano, através de LEDs que irão se acender para que o jogador saiba qual nota tocar. Ele conta com sete botões que servirão como teclas do piano e um buzzer que servirá como caixa de som.
 
 Pré-requisitos
@@ -11,12 +11,13 @@ Construido com
 •	MicroPython
 •	Raspberry PI Pico
 
-Análise de custo
-•	7 botões
-•	1 Buzzer
-•	7 LEDs
-•	8 reistores
-•	1 placa de solda padrão
+Análise de custo:
+7 Botões- 0,32 R$ cada - Total: 2,24 R$
+Buzzer - 2,30 R$
+7 Leds - 0,33 R$ cada - Total: 2,31 R$
+8 Resistores - 0,14 R$ cada - Total: 1,13 R$
+Placa de solda - 5,40 R$
+Raspberry Pi Pico - 30,68 R$
 •	Componentes adicionais: Solda, fios
 
 Versão atual
