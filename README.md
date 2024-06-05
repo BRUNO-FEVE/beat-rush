@@ -42,6 +42,7 @@ Esse projeto consiste na criação de um jogo de peiano utilizando o micropython
 
 
 8. Video de Funcionanmento
+- https://drive.google.com/file/d/1gqE2B5CLn0qAm_yHxnP8KXvXyJ2HqYK6/view?usp=sharing
    
 
 Autores:
